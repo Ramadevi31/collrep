@@ -39,4 +39,4 @@ s.no|sname|smarks
 5|ijk|56
 
 # upload an image
-[myimg](virat)
+[myimg](virat.jpg)
