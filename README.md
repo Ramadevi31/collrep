@@ -23,3 +23,8 @@ Java is a general purpose,class based,object oriented programming language.It is
 
 # Tell me about your college:
 My college name is **Andhra Loyola Institute Of Engineering And Technology**
+
+# Create a link
+The syntax for create a link in markdown [text](url)
+
+Ex: [Google](https://www.google.com)
