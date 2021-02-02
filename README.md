@@ -31,7 +31,7 @@ Ex: [Google](https://www.google.com)
 
 # Create a Table
 s.no|sname|smarks
---------------------
+----|-----|------
 1|abc|90
 2|cde|89
 3|efg|78
