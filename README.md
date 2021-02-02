@@ -40,3 +40,13 @@ s.no|sname|smarks
 
 # upload an image
 [myimg](virat.jpg)
+
+# write a code
+Explain about sum of two numbers using python
+
+    a=4
+    b=6
+    c=a+b
+    print("the sum {} and {} is {}".format(a,b,c))
+
+
