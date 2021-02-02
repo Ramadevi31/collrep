@@ -37,3 +37,6 @@ s.no|sname|smarks
 3|efg|78
 4|ghi|67
 5|ijk|56
+
+# upload an image
+[myimg](virat)
