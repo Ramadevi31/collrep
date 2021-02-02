@@ -9,6 +9,8 @@ Java is a general purpse,class based,object oriented programming lamguage.It is 
 
 # what are the oops concepts in java
 * class and object
+  * class
+    * object
 * Inheritance
 * Abstraction
 * Encapsulation
