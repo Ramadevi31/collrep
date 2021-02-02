@@ -39,7 +39,7 @@ s.no|sname|smarks
 5|ijk|56
 
 # upload an image
-[myimg](virat.jpg)
+![alt myimg](virat.jpg)
 
 # write a code
 Explain about sum of two numbers using python
