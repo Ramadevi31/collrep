@@ -5,7 +5,7 @@ This is Head1
 This is Heading 2
 
 # what is Java
-Java is a general purpse,class based,object oriented programming lamguage.It is a computing platform for application development.
+Java is a general purpose,class based,object oriented programming language.It is a computing platform for application development.
 
 # what are the oops concepts in java
 * class and object
